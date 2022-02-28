@@ -337,10 +337,6 @@ const SATDRESS_SERVERS = [
     urlText: '@ln.fitti.io',
   },
   {
-    urlLink: 'https://bitmia.com',
-    urlText: '@bitmia.com',
-  },
-  {
     urlLink: 'https://paymentlink.xyz',
     urlText: '@paymentlink.xyz',
   },
